@@ -2,6 +2,8 @@
 
 This repository provides unofficial binary wheels for [PyAlembic](https://github.com/alembic/alembic) for Python on Windows. The wheels also include the [PyImath](https://github.com/AcademySoftwareFoundation/Imath) extension.
 
+[Alembic](https://www.alembic.io) is an open computer graphics interchange framework.
+
 The files are unofficial (meaning: informal, unrecognized, personal, unsupported, no warranty, no liability, provided "as is") and made available for testing and evaluation purposes.
 
 Source code changes, if any, have been submitted to the project maintainers or are included in the wheels.
