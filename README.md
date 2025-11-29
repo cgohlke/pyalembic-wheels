@@ -8,20 +8,20 @@ The files are unofficial (meaning: informal, unrecognized, personal, unsupported
 
 Source code changes, if any, have been submitted to the project maintainers or are included in the wheels.
 
-The [Microsoft Visual C++ Redistributable packages for Visual Studio 2022](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) is required.
+The [Microsoft Visual C++ Redistributable packages for Visual Studio 2017-2026](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) is required.
 
 The ``alembic`` extension conflicts with the [``alembic``](https://pypi.org/project/alembic/) database migration tool, which must not be installed.
 
 The wheels can be downloaded from the [Releases](https://github.com/cgohlke/pyalembic-wheels/releases) page.
 
-## Release 2025.10.5
+## Release 2025.11.28
 
 This release was built from the following source code:
 
-- [alembic](https://github.com/alembic/alembic) 1.8.9
-- [boost](https://www.boost.org/users/download/) 1.88.0
+- [alembic](https://github.com/alembic/alembic) 1.8.10
+- [boost](https://www.boost.org/users/download/) 1.89.0
 - [hdf5](https://support.hdfgroup.org/ftp/HDF5/releases/hdf5-1.8/hdf5-1.8.23/src/hdf5-1.8.23.zip) 1.8.23
-- [imath](https://github.com/AcademySoftwareFoundation/Imath) 3.2.1
+- [imath](https://github.com/AcademySoftwareFoundation/Imath) 3.2.2
 - [libaec](https://gitlab.dkrz.de/k202009/libaec) 1.1.4
 - [zlib](https://github.com/madler/zlib) 1.3.1
 
